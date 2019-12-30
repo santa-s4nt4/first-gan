@@ -2,3 +2,5 @@
 .venv/
 downloads/
 dataset/
+models/
+tflogs/
