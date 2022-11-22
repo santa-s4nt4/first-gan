@@ -14,7 +14,7 @@ scipy = "*"
 google-images-download = "*"
 matplotlib = "*"
 pandas = "*"
-pillow = "==6.2.0"
+pillow = "==9.3.0"
 tensorflow-gpu = "==1.15.2"
 
 [requires]
